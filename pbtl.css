@@ -574,7 +574,7 @@ body {
 
 .legend {
  	position:absolute;
-  top:7%;
+  top:3%;
   left:23%;
   padding:10px;
   font-size:11px;
@@ -595,9 +595,18 @@ body {
 
 .legend ul { float:left; list-style: none; }
 
+.legend .list-3 {
+  text-align: center;
+  margin-bottom:7px;
+}
+
 .legend .list-2 {
  	margin-left:5px; 
   width:273px;
+}
+
+.legend .list-4 {
+ 	text-align:center;
 }
 
 .legend .list-1 li { margin:7px 0; }
