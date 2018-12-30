@@ -1,5 +1,6 @@
-# Earths-Crust_Element-Abundance-by-Size_Source-by-Color
-Earth's Crust: Element Abundance by Size, Source by Color
+# Earth's Crust: Element Abundance by Size, Source by Color
+
+Demo on <a href="http://cssdeck.com/labs/hy2mni7s">cssdeck.com</a>
 
 Edited from original cssdeck.com html and css periodic table.
 Somewhat logarithmic data size calculated here:
