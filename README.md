@@ -18,7 +18,7 @@ Source data from Wikipedia, here:
 
 which is itself sourced from Jennifer Johnson, Ohio State, here:
 
-<a href="http://www.astronomy.ohio-state.edu/~jaj/nucleo/"></a>
+<a href="http://www.astronomy.ohio-state.edu/~jaj/nucleo/">astronomy.ohio-state.edu</a>
 
 And has a blog post detailing its inception here:
 
