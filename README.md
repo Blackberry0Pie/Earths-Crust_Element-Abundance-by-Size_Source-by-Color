@@ -1,4 +1,4 @@
-# Earth's Crust: Element Abundance by Size, Source by Color
+# Earth's Crust's Elements: Abundance by Size, Source by Color
 
 Demo on <a href="http://cssdeck.com/labs/full/hy2mni7s">cssdeck.com</a>
 
